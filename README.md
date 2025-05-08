@@ -19,7 +19,7 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 - [A-Star Algorithm](https://github.com/rahalvidusha/A-Star)
 
 ### Wanna read my articles?
-
+<br><br>
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://rahal.rahalvidusha.com/)
 * <img src="https://rahal.rahalvidusha.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://rahalvidusha.com/) -->
 
@@ -30,8 +30,7 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 * <img src="https://rahal.rahalvidusha.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UC0B9OBNnNdfUfgKt9U6g0J) -->
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20"/> [LinkedIn](https://www.linkedin.com/in/rahal-bandara/)
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris) -->
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" height="20" style="vertical-align:middle;"/> [GitHub](https://github.com/rahalvidusha)
-
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20" style="vertical-align:middle;"/> [GitHub](https://github.com/rahalvidusha)
 
 
 ### Wanna get something done?
