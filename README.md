@@ -32,13 +32,12 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris) -->
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20" style="vertical-align:middle;"/> [GitHub](https://github.com/rahalvidusha)
 
-
 ### Wanna get something done?
-
+<br><br>
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [Fiverr](https://www.fiverr.com/users/rahalvidusha) -->
 
 ### Wanna learn from me?
-
+<br><br>
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/rahal-peiris/) -->
 
 <!--
