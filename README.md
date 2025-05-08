@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p style="font-size: 18px;">This text will appear with a font size of 18px.</p>
+
 ### Who am I?
 I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.
 
