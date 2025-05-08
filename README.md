@@ -20,24 +20,24 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 
 ### Wanna read my articles?
 
-* <img src="https://rahal.rahalvidusha.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://rahal.rahalvidusha.com/)
-* <img src="https://rahal.rahalvidusha.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://rahalvidusha.com/)
+<!--* <img src="https://rahal.rahalvidusha.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://rahal.rahalvidusha.com/)
+* <img src="https://rahal.rahalvidusha.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://rahalvidusha.com/) -->
 
 ### Wanna connect with me?
 
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UC89djRyp6gJXtrrlPaZs0A)
+<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UC89djRyp6gJXtrrlPaZs0A)
 * <img src="https://rahal.rahalvidusha.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCQ8ndICk3N72qp14Uw4oA)
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UC0B9OBNnNdfUfgKt9U6g0J)
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/praneethpeiris/)
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris)
+* <img src="https://rahal.rahalvidusha.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UC0B9OBNnNdfUfgKt9U6g0J) -->
+* <img src="https://rahal.rahalvidusha.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://www.linkedin.com/in/rahal-bandara/)
+<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris) -->
 
 ### Wanna get something done?
 
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [Fiverr](https://www.fiverr.com/users/rahalvidusha)
+<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [Fiverr](https://www.fiverr.com/users/rahalvidusha) -->
 
 ### Wanna learn from me?
 
-* <img src="https://rahal.rahalvidusha.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/rahal-peiris/)
+<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/rahal-peiris/) -->
 
 <!--
 **rahalvidusha/rahalvidusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
