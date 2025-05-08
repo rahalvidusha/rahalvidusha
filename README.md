@@ -3,6 +3,10 @@
 ### Who am I?
 I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.
 
+### My Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?
+username=rahalvidusha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <!--
 **rahalvidusha/rahalvidusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
