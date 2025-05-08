@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Who am I?
+I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.
+
 <!--
 **rahalvidusha/rahalvidusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
