@@ -28,7 +28,9 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/g2.png" height="20"/>&nbsp; [Tech Reviews](https://www.youtube.com/channel/UC89djRyp6gJXtrrlPaZs0A)
 * <img src="https://rahal.rahalvidusha.com/assets/img/icons/GamezGrave.png" height="20"/>&nbsp; [Gaming](https://www.youtube.com/channel/UCQ8ndICk3N72qp14Uw4oA)
 * <img src="https://rahal.rahalvidusha.com/assets/img/icons/gnome-with-a-drone.png" height="20"/>&nbsp; [Drone](https://www.youtube.com/channel/UC0B9OBNnNdfUfgKt9U6g0J) -->
-[![LinkedIn](https://img.icons8.com/ios-filled/32/0e76a8/linkedin.png)](https://www.linkedin.com/in/rahal-bandara/)
+<a href="https://www.linkedin.com/in/rahal-bandara/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20"/>
+</a>
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris) -->
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20" style="vertical-align:middle;"/> [GitHub](https://github.com/rahalvidusha)
 
