@@ -20,9 +20,11 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 - [Copy Dynamo DB Table](https://github.com/rahalvidusha/copy-dynamodb-table)
 - [A-Star Algorithm](https://github.com/rahalvidusha/A-Star)
 
+
+<!--
 ### Wanna read my articles?
 <br><br>
-<!--* <img src="https://rahal.rahalvidusha.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://rahal.rahalvidusha.com/)
+* <img src="https://rahal.rahalvidusha.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://rahal.rahalvidusha.com/)
 * <img src="https://rahal.rahalvidusha.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://rahalvidusha.com/) -->
 
 ### Wanna connect with me?
@@ -34,13 +36,17 @@ I am a B.Sc. Information Technology student at Rajarata University with a strong
 <!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/stackoverflow.png" height="20"/>&nbsp; [Stack Overflow](https://stackoverflow.com/users/4350424/praneeth-peiris) -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahalvidusha)
 
+
+<!--
 ### Wanna get something done?
 <br><br>
-<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [Fiverr](https://www.fiverr.com/users/rahalvidusha) -->
+* <img src="https://rahal.rahalvidusha.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [Fiverr](https://www.fiverr.com/users/rahalvidusha) -->
 
+
+<!--
 ### Wanna learn from me?
 <br><br>
-<!--* <img src="https://rahal.rahalvidusha.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/rahal-peiris/) -->
+* <img src="https://rahal.rahalvidusha.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/rahal-peiris/) -->
 
 <!--
 **rahalvidusha/rahalvidusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
