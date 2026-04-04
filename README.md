@@ -4,9 +4,11 @@
 I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.
 
 ### My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahalvidusha&theme=dark)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahalvidusha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahalvidusha&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahalvidusha&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+  -->
 
 ### Top Repositories
 
