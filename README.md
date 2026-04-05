@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Who am I?
-I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development.In addition, I have developed skills in Generative AI and C++ through online learning platforms. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.~
+I am a B.Sc. Information Technology student at Rajarata University with a strong passion for software development.In addition, I have developed skills in Generative AI and C++ through online learning platforms. I enjoy learning through hands-on conding, online courses and community-driven platforms like GitHub.
 
 ### My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rahalvidusha&theme=dark)](https://git.io/streak-stats)
